@@ -111,7 +111,7 @@ Before you start, make sure you have the following:
    You should see a terminal window as show below.
    
    ![Screenshot of start docker.](notebookstart.png)
+   
 
 ### 4. Test the Environment
-   ```bash
     1.  Run test_env.ipynb. You should get "All Set!"
