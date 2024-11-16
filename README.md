@@ -114,4 +114,5 @@ Before you start, make sure you have the following:
    
 
 3. **Test the Environment**
+
    Run test_env.ipynb. You should get "All Set!"
