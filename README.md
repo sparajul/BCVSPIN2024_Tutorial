@@ -115,3 +115,4 @@ Before you start, make sure you have the following:
 ## 4. Test the Environment
 
     1.  Run test_env.ipynb. You should get "All Set!"
+    ```bash
