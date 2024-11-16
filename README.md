@@ -112,5 +112,6 @@ Before you start, make sure you have the following:
    
    ![Screenshot of start docker.](notebookstart.png)
 
-   3. **Test notebook**
+## 4. Test the Environment
+
       Run test_env.ipynb. You should get "All Set!"
